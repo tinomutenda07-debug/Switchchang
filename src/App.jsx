@@ -5,7 +5,7 @@ const DB = {
   users: [
     {
       id: 1, name: "Admin", email: "admin@swiftchange.co.zw",
-      password: "admin123", phone: "+263771000000", role: "admin",
+      password: "admin123", phone: "+263788388695", role: "admin",
       balance_rtgs: 0, balance_usd: 0, ecocash: "+263771000000", verified: true,
     },
   ],
